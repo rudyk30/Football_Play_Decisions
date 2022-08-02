@@ -7,4 +7,4 @@ The purpose of our presentation is to explore the probability of a run or pass p
 **need to clarify the database and output labels = prediction label (if using classification**
 
 ## Database
-The data source we are using for the machine learning model is 'nfl_data_py' which is a Python library for interacting with various NFL data sources.
+The data source we are using for the unsupervised machine learning model is 'nfl_data_py' which is a Python library for interacting with various National Football League (NFL) data sources. We have concluded to stratify the NFL data for the 2021-2022 football season.
