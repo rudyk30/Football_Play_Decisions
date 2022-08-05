@@ -4,6 +4,7 @@
 *Slack Channel*
 *Microsoft Outlook*
 *Github Repository*
+*Jupyter Notebook*
 
 ### Presentation Reasoning
 The purpose of our presentation is to explore the possibility of a run or pass play based on the down (e.g., first down, etc.) Because NFL statistics offer vast amounts of statical and aggregated data it affords us the ability to manipulate and analyze this data with limited constraint.
