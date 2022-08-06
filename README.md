@@ -20,4 +20,4 @@ The data source we are using for the supervirsed machine learning model is 'NFL_
 ###### Summary
 
 ##### Dashboard (mock)
-![image](https://https://github.com/rudyk30/Football_Play_Decisions/main/Resources/storyboard_placeholder.png)
+![image](https://github.com/rudyk30/Football_Play_Decisions/blob/main/Resources/storyboard_placeholder.png)
