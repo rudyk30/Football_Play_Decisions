@@ -10,3 +10,12 @@
 
 * Create an outline for the Dashboard before next Thursday 
 * Create initial visulaizations 
+
+
+##Segment 2
+
+Outstanding Tasks
+
+* Create additional visuals using simple_df
+* Create additional visuals using team_summary
+* Research how to make dashboard interactive 
