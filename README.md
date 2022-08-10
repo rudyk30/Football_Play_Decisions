@@ -7,7 +7,10 @@ In order to communicate and work collaboratively we have used the following comm
 *Github Repository*
 *Jupyter Notebook*
 *Tableau*
-*Google Docs*
+*Google Docs* 
+
+## Project Roadmap
+https://docs.google.com/document/d/1VTa-DcnV8N72X_8RYjG2IZ8GpFNgXNUC9XfTYVxNoG0/edit
 
 ### Presentation Reasoning
 The purpose of our presentation is to explore the possibility of a run or pass play based on the down (e.g., first down, etc.) Because NFL statistics offer vast amounts of statical and aggregated data it affords us the ability to manipulate and analyze this data with limited constraint.
