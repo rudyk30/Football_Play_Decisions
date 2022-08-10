@@ -3,11 +3,16 @@
 ## Communication Protocol Description
 In order to communicate and work collaboratively we have used the following communication protocols to keep our project on track for timely completion.
 
-*Slack Channel*     
+*Slack Channel* 
+
 *Microsoft Outlook*
+
 *Github Repository*
+
 *Jupyter Notebook*
+
 *Tableau*
+
 *Google Docs* 
 
 ## Project Roadmap
