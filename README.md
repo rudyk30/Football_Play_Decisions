@@ -39,4 +39,4 @@ Deliverable 3:
 Final Deliverable:
 
 ##### Dashboard
-![image](https://github.com/rudyk30/Football_Play_Decisions/blob/main/Resources/storyboard_placeholder.png)
+![image]https://github.com/rudyk30/Football_Play_Decisions/blob/main/Resources/Storyboard_placeholder.PNG
