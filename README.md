@@ -24,6 +24,10 @@ We removed tables and columns that were not easily readable or relevant to our s
 ##### Database 
 The data source we are using for the supervirsed machine learning model is 'NFL_Data_Py' which is a Python Library for interacting with various National Football League (NFL) data sources. We have concluded to stratify the NFL data for the 2021-2022 season.
 
+We made our static data available on a cloud database (AWS) to enhance collaboration and streamline connections to our model and dashboard, without the need to rely on local storage. Throughout the project, we will use Python and pgAdmin to export and import data from the cloud database.
+
+![image](https://github.com/rudyk30/Football_Play_Decisions/blob/main/Resources/AWS_static_data.png)
+
 ##### Results
 We are currently running a 64% prediction rate to answer the decision of a run or pass play depending on down situation.
 
