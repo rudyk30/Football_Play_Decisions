@@ -33,7 +33,7 @@ We are currently running a 64% prediction rate to answer the decision of a run o
 
 #### Summary
 
-##### Presentation
+#### Presentation
 The links to our presentations to satisfy the requirmeents for each project segment are as follows:
 
 Deliverable 2:   https://docs.google.com/presentation/d/1tKeYRDBbR00550_CwV0_B2pWFhDv9LbVQuPQXANpk-8/edit#slide=id.p
@@ -42,5 +42,5 @@ Deliverable 3: https://docs.google.com/presentation/d/1SbJ_7xQlDq9h7IAAogTenYXB2
 
 Final Deliverable:
 
-##### Dashboard
+#### Dashboard
 ![image](https://github.com/rudyk30/Football_Play_Decisions/blob/main/Resources/Storyboard_placeholder.PNG)
