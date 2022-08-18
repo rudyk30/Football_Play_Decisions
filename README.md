@@ -38,7 +38,7 @@ The links to our presentations to satisfy the requirmeents for each project segm
 
 Deliverable 2:   https://docs.google.com/presentation/d/1tKeYRDBbR00550_CwV0_B2pWFhDv9LbVQuPQXANpk-8/edit#slide=id.p
 
-Deliverable 3:
+Deliverable 3: https://docs.google.com/presentation/d/1SbJ_7xQlDq9h7IAAogTenYXB2zSwh7-6cb59O_qhlgA/edit#slide=id.g143ad76fe9d_0_134 
 
 Final Deliverable:
 
