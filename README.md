@@ -19,3 +19,10 @@ Outstanding Tasks
 * Create additional visuals using simple_df
 * Create additional visuals using team_summary
 * Research how to make dashboard interactive 
+
+
+## Segment 3 Outstanding Tasks
+
+* Create interactive element in dashboard
+* Work with team to create additional visuals as they feel fit
+* Input confusion matrix
