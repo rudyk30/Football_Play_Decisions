@@ -29,7 +29,7 @@ We made our static data available on a cloud database (AWS) to enhance collabora
 ![image](https://github.com/rudyk30/Football_Play_Decisions/blob/main/Resources/AWS_static_data.png)
 
 #### Results
-We are currently running a 64% prediction rate to answer the decision of a run or pass play depending on down situation.
+We are currently running a 74.57% prediction rate to answer the decision of a run or pass play depending on down situation.
 
 #### Summary
 
